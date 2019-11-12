@@ -1,4 +1,4 @@
-#Tres en raya distribuido
+# Tres en raya distribuido
 Este es el proyecto para la asignatura Sistemas Distribuidos, de cuarto curso del Doble Grado de Ingeniería
 de Computadores y Tecnologías para la Sociedad de la Información impartido en la UPM.
 
